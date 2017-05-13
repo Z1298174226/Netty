@@ -1,0 +1,2 @@
+The time server is start in port : 4001
+The time server receive order : QUERY TIME ORDER

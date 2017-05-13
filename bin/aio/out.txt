@@ -1,0 +1,10 @@
+The time server is start in port : 8081
+The time server receive order : QUERY TIME ORDER
+The time server receive order : QUERY TIME ORDER
+The time server receive order : QUERY TIME ORDER
+The time server receive order : QUERY TIME ORDER
+The time server receive order : QUERY TIME ORDER
+The time server receive order : QUERY TIME ORDER
+The time server receive order : QUERY TIME ORDER1
+The time server receive order : QUERY TIME ORDER1
+The time server receive order : QUERY TIME ORDER

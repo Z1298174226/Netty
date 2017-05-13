@@ -1,0 +1,3 @@
+The time server is started in :4001
+The server recieve the order: Q
+The server recieve the order: QUERY TIME ORDER

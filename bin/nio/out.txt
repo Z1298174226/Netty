@@ -1,0 +1,6 @@
+The time server is start in port : 15
+The time server receive order : QUERY TIME ORDER
+The time server receive order : QUERY TIME ORDER
+The time server receive order : TIME QUERY ORDER
+The time server receive order : TIME QUERY ORDER
+The time server receive order : QUERY TIME ORDER

@@ -1,0 +1,2 @@
+Listenning the connection for the port 16
+Recieve the time order request QUERY TIME ORDER
